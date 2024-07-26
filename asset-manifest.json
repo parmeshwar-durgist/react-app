@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parmeshwar-durgist/react-app/static/css/main.ad79bf07.css",
-    "main.js": "/parmeshwar-durgist/react-app/static/js/main.96d8f1b1.js",
-    "static/js/453.64512fd7.chunk.js": "/parmeshwar-durgist/react-app/static/js/453.64512fd7.chunk.js",
-    "index.html": "/parmeshwar-durgist/react-app/index.html",
-    "main.ad79bf07.css.map": "/parmeshwar-durgist/react-app/static/css/main.ad79bf07.css.map",
-    "main.96d8f1b1.js.map": "/parmeshwar-durgist/react-app/static/js/main.96d8f1b1.js.map",
-    "453.64512fd7.chunk.js.map": "/parmeshwar-durgist/react-app/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/react-app/static/css/main.ad79bf07.css",
+    "main.js": "/react-app/static/js/main.5462a6f2.js",
+    "static/js/453.64512fd7.chunk.js": "/react-app/static/js/453.64512fd7.chunk.js",
+    "index.html": "/react-app/index.html",
+    "main.ad79bf07.css.map": "/react-app/static/css/main.ad79bf07.css.map",
+    "main.5462a6f2.js.map": "/react-app/static/js/main.5462a6f2.js.map",
+    "453.64512fd7.chunk.js.map": "/react-app/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad79bf07.css",
-    "static/js/main.96d8f1b1.js"
+    "static/js/main.5462a6f2.js"
   ]
 }
